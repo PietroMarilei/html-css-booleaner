@@ -15,3 +15,16 @@ background-size: 50%;
     margin-top: 40px;
     width: 150px;
 }
+
+#title {
+    font-size: 20px;
+    
+}
+
+.greytext{
+    color: rgb(103, 99, 110);
+}
+
+#thebooleaners{
+    color: rgb(93, 189, 233);
+}
