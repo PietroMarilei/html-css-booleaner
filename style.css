@@ -37,6 +37,10 @@
     margin-bottom: 20px;
 }
 
+.highlight {
+    background-color: yellow;
+}
+
 table {
     margin: 20px 0px;
 }
@@ -49,22 +53,20 @@ thead {
 }
 
 #link01{
-    color: aliceblue;
     background-image: url(./img/monitor.jpg);
-    background-size:contain;
-
-    width: 312px;
-    height: 208px;
-    /* secondo me non va bene sta cosa */
 }
 #link02{
-    color: aliceblue;
     background-image: url(./img/graph.jpg);
-    background-size:contain;
+}
 
-    width: 312px;
-    height: 208px;
-    /* secondo me non va bene sta cosa */
+.img{
+    color: aliceblue;
+    background-size:contain;
+    width: 280px;
+    height: 200px;
+}
+footer>h4 {
+    color: rgb(103, 99, 110);
 }
 
 footer{
