@@ -1,5 +1,5 @@
-body {
-    margin:0;
+*{
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -8,8 +8,10 @@ body {
 background-image: url(./img/pattern.png);
 background-repeat: 7;
 background-color: rgb(65, 154, 226);
+background-size: 50%;
 
 }
 #logo{
-width: 150px;
+    margin-top: 40px;
+    width: 150px;
 }
