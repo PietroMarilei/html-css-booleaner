@@ -5,10 +5,10 @@
 
 .app-header{
     height: 0%;
-background-image: url(./img/pattern.png);
-background-repeat: 7;
-background-color: rgb(65, 154, 226);
-background-size: 50%;
+    background-image: url(./img/pattern.png);
+    background-repeat: 7;
+    background-color: rgb(65, 154, 226);
+    background-size: 35%;
 
 }
 #logo{
@@ -18,7 +18,6 @@ background-size: 50%;
 
 #title {
     font-size: 20px;
-    
 }
 
 .greytext{
@@ -27,4 +26,8 @@ background-size: 50%;
 
 #thebooleaners{
     color: rgb(93, 189, 233);
+}
+
+.credits{
+    font-size: 12px;
 }
