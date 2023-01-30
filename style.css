@@ -32,7 +32,7 @@
     font-size: 12px;
 }
 
-#text01{
+.text{
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -65,4 +65,8 @@ thead {
     width: 312px;
     height: 208px;
     /* secondo me non va bene sta cosa */
+}
+
+footer{
+    margin-top: 20px;
 }
