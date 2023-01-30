@@ -4,7 +4,7 @@
 }
 
 .app-header{
-    height: 0%;
+   
     background-image: url(./img/pattern.png);
     background-repeat: 7;
     background-color: rgb(65, 154, 226);
@@ -12,11 +12,12 @@
 
 }
 #logo{
-    margin-top: 40px;
+    margin-top: 50px;
+    margin-left: 10%;
     width: 150px;
 }
 
-.lateralmargins{
+.lateral-margins{
 width: 80%;
 margin: auto;
 
@@ -40,9 +41,9 @@ margin: auto;
 }
 
 .text{
-    margin-top: 200px;
-    margin-bottom: 200px;
-    background-color: brown;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
 }
 
 .highlight {
@@ -60,10 +61,10 @@ thead {
     background-color: rgba(119, 190, 240, 0.803);
 }
 
-#link01{
+#img-pink-computer{
     background-image: url(./img/monitor.jpg);
 }
-#link02{
+#img-graph{
     background-image: url(./img/graph.jpg);
 }
 
@@ -73,7 +74,7 @@ thead {
     width: 280px;
     height: 200px;
 }
-footer>h4 {
+footer > h4 {
     color: rgb(103, 99, 110);
 }
 
