@@ -31,3 +31,19 @@
 .credits{
     font-size: 12px;
 }
+
+#text01{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: 20px;
+}
+thead {
+    background-color: rgb(89, 171, 244);
+    color: aliceblue;
+}
+.bluerow{
+    background-color: rgba(119, 190, 240, 0.803);
+}
