@@ -1,0 +1,15 @@
+body {
+    margin:0;
+    box-sizing: border-box;
+}
+
+.app-header{
+    height: 0%;
+background-image: url(./img/pattern.png);
+background-repeat: 7;
+background-color: rgb(65, 154, 226);
+
+}
+#logo{
+width: 150px;
+}
